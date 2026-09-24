@@ -46,4 +46,4 @@ Este projeto implementa o tradicional jogo da cobrinha em uma grade (grid) $20 \
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/WeslleyA/NOME-DO-SEU-REPOSITORIO.git](https://github.com/WeslleyA/NOME-DO-SEU-REPOSITORIO.git)
+   git clone [https://github.com/WeslleyA/cobrinha.git](https://github.com/WeslleyA/cobrinha.git)
